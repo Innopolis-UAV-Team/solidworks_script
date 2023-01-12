@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProgram_0020Files_005CSOLIDWORKS_0020Corp_005CSOLIDWORKS_005Capi_005Credist_005CSolidWorks_002EInterop_002Esldworks_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProgram_0020Files_005CSOLIDWORKS_0020Corp_005CSOLIDWORKS_005Capi_005Credist_005CSolidWorks_002EInterop_002Eswcommands_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProgram_0020Files_005CSOLIDWORKS_0020Corp_005CSOLIDWORKS_005Capi_005Credist_005CSolidWorks_002EInterop_002Eswconst_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">INFO</s:String>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist\SolidWorks.Interop.sldworks.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
