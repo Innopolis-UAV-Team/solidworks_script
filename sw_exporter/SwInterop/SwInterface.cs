@@ -157,6 +157,11 @@ namespace sw_exporter.SwInterop {
             App.CommandInProgress = true;
             var document = App.OpenDoc6(path, (int)swDocumentTypes_e.swDocASSEMBLY, 
                 (int)swOpenDocOptions_e.swOpenDocOptions_LoadLightweight, "", ref err, ref warn);
+
+            if (err != 0) {
+                throw new System.InvalidOperationException("Failed to open a document");
+            }
+            
             Console.WriteLine("Errors " + err + " Warnings " + warn + " File " + document);
             Console.WriteLine("App loaded");
             OpenDocs.Add(document);
